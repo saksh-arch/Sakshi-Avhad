@@ -9,7 +9,7 @@
 - 🧠 Skills: Java | Python | JavaScript | React | Node.js | MongoDB | MySQL  
 - 🚀 Exploring: DevOps, Cloud, and Generative AI  
 - 🌱 Currently working on: **AI Chatbot | E-commerce App | Movie Recommender System**  
-- 📫 How to reach me: **sakshiavhad@gmail.com**
+- 📫 How to reach me: **sakshiavhad2004@gmail.com**
 
 ---
 
@@ -48,5 +48,5 @@ Content-based recommendations.
 ---
 
 ## 🌍 Connect With Me  
-- LinkedIn: **linkedin.com/in/sakshi-avhad**  
-- Gmail: **sakshiavhad@gmail.com**
+- LinkedIn: **linkedin.com/in/sakshi34**  
+- Gmail: **sakshiavhad2004@gmail.com**
